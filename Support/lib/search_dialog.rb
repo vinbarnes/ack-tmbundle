@@ -38,7 +38,7 @@ class AckInProject::SearchDialog
     
     puts <<-HTML
     <html><body>
-      <h1>Can't determine project directory (TM_PROJECT_DIR)</h1>
+      <h1>Can't determine project directory (TM_PROJECT_DIRECTORY)</h1>
     </body></html>
     HTML
   end
